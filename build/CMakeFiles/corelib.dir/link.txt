@@ -1,2 +1,0 @@
-/usr/bin/ar qc libcorelib.a CMakeFiles/corelib.dir/src/button.cpp.o CMakeFiles/corelib.dir/src/game.cpp.o CMakeFiles/corelib.dir/src/main.cpp.o
-/usr/bin/ranlib libcorelib.a
