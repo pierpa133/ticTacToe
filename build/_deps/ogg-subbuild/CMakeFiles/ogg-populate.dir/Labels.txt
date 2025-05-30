@@ -1,0 +1,14 @@
+# Target labels
+ ogg-populate
+# Source files and their labels
+/Users/Pierpi/Documents/Programmazione/VisualStudioCode/Cpp/ticTacToe/build/_deps/ogg-subbuild/CMakeFiles/ogg-populate
+/Users/Pierpi/Documents/Programmazione/VisualStudioCode/Cpp/ticTacToe/build/_deps/ogg-subbuild/CMakeFiles/ogg-populate.rule
+/Users/Pierpi/Documents/Programmazione/VisualStudioCode/Cpp/ticTacToe/build/_deps/ogg-subbuild/CMakeFiles/ogg-populate-complete.rule
+/Users/Pierpi/Documents/Programmazione/VisualStudioCode/Cpp/ticTacToe/build/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-build.rule
+/Users/Pierpi/Documents/Programmazione/VisualStudioCode/Cpp/ticTacToe/build/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-configure.rule
+/Users/Pierpi/Documents/Programmazione/VisualStudioCode/Cpp/ticTacToe/build/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-download.rule
+/Users/Pierpi/Documents/Programmazione/VisualStudioCode/Cpp/ticTacToe/build/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-install.rule
+/Users/Pierpi/Documents/Programmazione/VisualStudioCode/Cpp/ticTacToe/build/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-mkdir.rule
+/Users/Pierpi/Documents/Programmazione/VisualStudioCode/Cpp/ticTacToe/build/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-patch.rule
+/Users/Pierpi/Documents/Programmazione/VisualStudioCode/Cpp/ticTacToe/build/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-test.rule
+/Users/Pierpi/Documents/Programmazione/VisualStudioCode/Cpp/ticTacToe/build/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-update.rule

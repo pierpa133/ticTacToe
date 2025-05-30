@@ -1,0 +1,3 @@
+/Users/Pierpi/Documents/Programmazione/VisualStudioCode/Cpp/ticTacToe/build/_deps/freetype-subbuild/CMakeFiles/freetype-populate.dir
+/Users/Pierpi/Documents/Programmazione/VisualStudioCode/Cpp/ticTacToe/build/_deps/freetype-subbuild/CMakeFiles/edit_cache.dir
+/Users/Pierpi/Documents/Programmazione/VisualStudioCode/Cpp/ticTacToe/build/_deps/freetype-subbuild/CMakeFiles/rebuild_cache.dir

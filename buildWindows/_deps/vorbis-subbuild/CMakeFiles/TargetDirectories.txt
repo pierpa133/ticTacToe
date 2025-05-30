@@ -1,0 +1,3 @@
+C:/Users/vsave/iCloudDrive/Documents/Programmazione/VisualStudioCode/Cpp/ticTacToe/buildWindows/_deps/vorbis-subbuild/CMakeFiles/vorbis-populate.dir
+C:/Users/vsave/iCloudDrive/Documents/Programmazione/VisualStudioCode/Cpp/ticTacToe/buildWindows/_deps/vorbis-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/vsave/iCloudDrive/Documents/Programmazione/VisualStudioCode/Cpp/ticTacToe/buildWindows/_deps/vorbis-subbuild/CMakeFiles/rebuild_cache.dir
